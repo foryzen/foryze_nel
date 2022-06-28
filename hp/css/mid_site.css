@@ -1,0 +1,77 @@
+.h1-01 {
+    font-size: 45px;
+    font-family: "游ゴシック";
+}
+
+.h2-01 {
+    font-family: "Yu Gothic";
+}
+
+.h3-01 {
+    margin-top: 100px;
+    font-family: "游ゴシック";
+    font-size: 23px;
+    text-align: left;
+    border-bottom: 1px solid gray;
+}
+
+.h4-01 {
+    letter-spacing: -2px;
+    text-align: left;
+    margin-bottom: 0px;
+    color: orange;
+    font-family: 'M PLUS Rounded 1c';
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.h5-01 {
+    letter-spacing: -1px;
+    text-align: left;
+    color: black;
+    font-family: 'M PLUS Rounded 1c';
+    font-size: 20px;
+}
+
+.pct-01 {
+    height: 300px;
+    width: 300px;
+}
+
+.pct-02 {
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    zoom: 50%;
+}
+
+.div-01 {
+    margin: 60px 50px 0 50px;
+}
+
+.div-02 {
+    padding-bottom: 2%;
+    margin: 3% 0 0 0;
+}
+
+.div_01_2a {
+    justify-content: center;
+    width: 1000px;
+}
+
+.hover_div {
+    display: flex;
+    border: 2px solid gray;
+    border-radius: 20px;
+    transition-duration:0.5s;
+}
+
+.hover_div:hover {
+    background-color: #eeeeee;
+    transform:scale(1.1,1.1);
+    cursor:pointer:0s;
+}
+
+.div-03 {
+    margin-left: 100px;
+}

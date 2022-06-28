@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300&display=swap');
+
+.l-f {
+    margin: 0em 0 0 0;
+    font-family: 'M PLUS Rounded 1c';
+}
+
+.l-h3-01 {
+    color: black;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.l-h2-02 {
+    white-space: nowrap;
+    font-size: 30px;
+    font-family: "Product Sans";
+    border-bottom: gray solid 1px;
+    margin: 3em 8em 1em 0;
+}
+
+.l_site_list {
+    margin: 0 0 0 50px;
+    text-align: left;
+}
+
+.l_site_list_div-01 {
+    margin: 0 0 0 2em;
+}
+
+.l_span-01 {
+    font-size: 20px;
+}
+
+.l_div_sosial {
+    display: inline-block;
+}
+
+.l_h4-01 {
+    color: gray;
+    font-family: 'M PLUS Rounded 1c';
+    margin: 0 0 0 0em;
+}
+
+.l_left_solid {
+    padding: 0 0 0 5px;
+    margin: 1em 0 0 0;
+    border-left: 5px solid black;
+}
+
+.l_youtube-color {
+    color: red;
+}
+
+.l_twitter-color {
+    color: #1da1f2;
+}
+
+.l_site_list_div-01 {
+    display: inline-block;
+}

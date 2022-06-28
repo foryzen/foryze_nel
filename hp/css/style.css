@@ -1,0 +1,26 @@
+* { box-sizing: border-box;}
+ 
+ body {
+    margin: 0;
+    padding: 0;
+    background-color:white;
+    text-align:center;
+    width: 100%;
+ }
+
+.all_site { display: flex; zoom:75%;}
+
+.left_site {
+    width: 768.665px;
+}
+
+.mid_site {
+    width: 1000px;
+}
+
+.right_site {
+    width: 768.665px;
+}
+
+a { text-decoration: none;}
+
