@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+.header-a-01 {
+    text-decoration: none;
+    color: black;
+}
+
+.header-div-02 {
+    display: block;
+}
+
+.header-div-02 {
+    padding: 10px;
+    display: flex;
+}
+
+.header-h1 {
+    font-size: 25px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: bolder;
+    margin: 0 20px 0 20px;
+}
+
+.header-h1-01 {
+    white-space: nowrap;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+    padding: 5px 20px 5px 20px;
+    font-weight: bolder;
+}
+
+.header-h1-02,.header-h1-03,.header-h1-04 {
+    padding: 5px 20px 5px 20px;
+    border-radius: 30px;
+}
+
+.header-h1-02,.header-h1-03,.header-h1-04 {
+    transition-duration: 0s;
+}
+
+.header-h1-02:hover {
+    background-color: lightgray;
+    cursor:pointer: 0s;
+}
+
+.header-h1-03:hover {
+    background-color: lightgray;
+    cursor:pointer: 0s;
+}
+
+.header-h1-04:hover {
+    background-color: lightgray;
+    cursor:pointer: 0s;
+}
